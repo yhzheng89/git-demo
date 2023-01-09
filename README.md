@@ -2,7 +2,6 @@
 
 This is the first file in this repo
 
-## Ipsum Below
+## Website files
 
-text
-adding more ipsum
+1. index.html
