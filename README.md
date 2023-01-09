@@ -4,4 +4,4 @@ This is the first file in this repo
 
 ## Website files
 
-cause some troubles please
+This is to cause some troubles
